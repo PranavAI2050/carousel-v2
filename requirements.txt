@@ -1,0 +1,10 @@
+Flask
+google-generativeai
+google-search-results
+requests
+beautifulsoup4
+langchain
+pypdf2
+langchain-community
+python-dotenv
+selenium
