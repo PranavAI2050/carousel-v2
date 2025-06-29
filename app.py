@@ -122,7 +122,13 @@ Page URL: {url}
 {images_text}
 [IMAGES END]
 
-Respond in JSON:
+Your task:
+- Choose the **5 most relevant images** for the given topic.
+- For each image, return:
+  - The **index** of the image.
+  - A short **description** (1–2 sentences) that explains how it's related to the topic or why it's useful.
+
+Respond ONLY in this JSON format:
 [
   {{
     "index": <int>,
