@@ -12,8 +12,8 @@ import re
 import json
 import os
 import time
-from dotenv import load_dotenv
 
+from dotenv import load_dotenv
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
